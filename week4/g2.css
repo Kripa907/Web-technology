@@ -1,0 +1,20 @@
+h3{
+    color:beige;
+    background-color:black;
+    font-weight:lighter;
+    font-style:normal;
+    font-size:medium;
+    text-align: right;
+}
+p{
+    color:blueviolet;
+    background-color:aquamarine;
+    font-weight: bold;
+    font-style:normal;
+    font-size:medium;
+    text-align: right;   
+}
+#css{
+    color:bisque;
+    text-decoration: none;
+}
