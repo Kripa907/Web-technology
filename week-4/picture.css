@@ -1,0 +1,8 @@
+img{ 
+    width: 50%;
+    max-width: 300px;
+    width: auto;
+    border-radius: 50%;
+    height:auto;
+    background-size: cover;
+}
