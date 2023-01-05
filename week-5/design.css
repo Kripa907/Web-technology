@@ -1,5 +1,5 @@
 body{
-
+       
 }
 .first-container{
  display: flex;
@@ -8,17 +8,17 @@ body{
 .first{
     background-color: green;
     padding: 32px;
-}    
-
-    h1{
+}  
+h1{
         font-size: 64px;
-        font-family: 'Times New Roman', Times, serif;
+        font-family:'Times New Roman', Times, serif;
     
         margin-left: 100px;
         padding: 0;
         color: white;
     
     }
+
     h2{
         margin-top: -30px;
         margin-left: 100px;
@@ -29,12 +29,12 @@ body{
     .venue{
         margin-left: 100px;
         margin-top: 100px;
-    width: fit-content;
-    color: white;
+        width: fit-content;
+        color: white;
 }
 
 input{
-   margin-left: 100px;
+    margin-left: 100px;
     margin-top: 40px;
     width: fit-content;
     font-size: 20px;
@@ -45,13 +45,16 @@ input{
     padding: 20px;
     font-weight: bold;
 }
+
 img{
+
     height: 100%
 
 }
+
 .second{
 
-    background-color:rgb(100, 222, 153) ;
+ background-color:rgb(100, 222, 153) ;
 }
 
 .text{
