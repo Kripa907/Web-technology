@@ -18,3 +18,11 @@ nav{
     display: flex;
     align-items: center;
 }
+
+h1{
+    color:white;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
