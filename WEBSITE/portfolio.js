@@ -1,1 +1,0 @@
-document.getElementsByTagName("p")[0].style.fontSize = "6vw"
